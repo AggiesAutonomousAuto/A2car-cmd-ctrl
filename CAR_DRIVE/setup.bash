@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+export ROS_PACKAGE_PATH=$PWD:$ROS_PACKAGE_PATH
+echo ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH
+
